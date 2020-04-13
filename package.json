@@ -1,0 +1,28 @@
+{
+  "name": "bin2dec",
+  "version": "1.0.0",
+  "description": "Command line utility to convert a binary string into a decimal number ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deborahdelgaudio/bin2dec.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "binary",
+    "converter"
+  ],
+  "author": "Deborah Del Gaudio - delgaudio.d@gmail.com, Gabriele D'Arrigo - darrigo.g@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deborahdelgaudio/bin2dec/issues"
+  },
+  "homepage": "https://github.com/deborahdelgaudio/bin2dec#readme",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
