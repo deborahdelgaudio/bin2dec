@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/deborahdelgaudio/bin2dec#readme",
   "dependencies": {
+    "chalk": "^4.0.0",
     "jest": "^25.3.0"
   }
 }
