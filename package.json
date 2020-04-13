@@ -1,6 +1,6 @@
 {
   "name": "@deborahdelgaudio/bin2dec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line utility to convert a binary string into a decimal number ",
   "main": "./src/bin2dec.js",
   "bin": {
