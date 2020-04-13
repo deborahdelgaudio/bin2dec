@@ -1,10 +1,11 @@
 {
-  "name": "bin2dec",
+  "name": "@deborahdelgaudio/bin2dec",
   "version": "1.0.0",
   "description": "Command line utility to convert a binary string into a decimal number ",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepublishOnly": "jest"
   },
   "repository": {
     "type": "git",
